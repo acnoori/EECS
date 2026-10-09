@@ -1,4 +1,4 @@
-# 🔬 Research Methodology for Graduate Computer Engineering Students
+# 🔬 Research Methodology for Graduate Electrical and Computer Engineering Students
 # روش‌شناسی پژوهش (مهندسی برق و کامپیوتر)
 
 A graduate-level course on research methodology tailored specifically for **Computer Engineering** students. This course guides students through the full research lifecycle — from formulating a research problem to writing and presenting a research report — with an emphasis on **algorithmic**, **systems**, **software engineering**, and **AI/ML** research contexts.
