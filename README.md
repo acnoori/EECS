@@ -1,9 +1,9 @@
 # 🔬 Research Methodology for Graduate Computer Engineering Students
-# روش‌شناسی پژوهش برای دانشجویان تحصیلات تکمیلی مهندسی کامپیوتر
+# روش‌شناسی پژوهش (مهندسی برق و کامپیوتر)
 
 A graduate-level course on research methodology tailored specifically for **Computer Engineering** students. This course guides students through the full research lifecycle — from formulating a research problem to writing and presenting a research report — with an emphasis on **algorithmic**, **systems**, **software engineering**, and **AI/ML** research contexts.
 
-درس روش‌شناسی پژوهش برای دانشجویان تحصیلات تکمیلی مهندسی کامپیوتر، با تمرکز بر پژوهش‌های الگوریتمی، سیستم‌های کامپیوتری، مهندسی نرم‌افزار و هوش مصنوعی/یادگیری ماشین.
+ درس روش‌شناسی پژوهش برای دانشجویان تحصیلات تکمیلی مهندسی برق و کامپیوتر، با تمرکز بر پژوهش‌های الگوریتمی، سیستم‌های دیجیتال و کامپیوتری، شبکه هوشمند و مهندسی نرم‌افزار و هوش مصنوعی/یادگیری ماشین.
 
 ---
 
@@ -14,8 +14,8 @@ A graduate-level course on research methodology tailored specifically for **Comp
 | **Course Title (Persian)** | روش‌شناسی پژوهش برای دانشجویان تحصیلات تکمیلی مهندسی برق و کامپیوتر |
 | **Course Title (English)** | Research Methodology for Graduate Electrical and Computer Engineering Students |
 | **Type** | Theoretical (نظری) |
-| **Category** | Specialized Elective / Core (تخصصی اختیاری / الزامی) |
-| **Credits** | 3 Units |
+| **Category** | Specialized Elective / Core ( جبرانی / الزامی) |
+| **Credits** | 2 Units |
 | **Hours** | 32 Hours |
 | **Prerequisites** | None (basic familiarity with academic writing recommended) |
 | **Language** | Persian (فارسی) with English technical terms |
